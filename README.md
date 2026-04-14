@@ -1,1 +1,19 @@
-# Trabajos-poo-adriel
+void setup(){
+ size(400,400);
+  
+    
+}
+
+void draw(){
+ float w=width, h=height;
+ background(100,200,300);
+ float sh=w/3;    //tamaño cuadrado
+  square(w/4-sh/2,h/4-sh/2,sh); //cuadrado responsive
+  
+  float cw=w/4;                  //tamañno circulo
+circle(w-w/4-cw/2,w/2-cw/2,cw); //circulo responsive
+
+fill(255,0,0);
+
+  
+}
