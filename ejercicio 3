@@ -5,13 +5,14 @@ void setup(){
 }
 
 void draw(){
- float w=width, h=height;
+
  
  
 
  
- if(mousePressed)
- miProcedimiento(mouseX,mouseY,width,height);
+ if(mousePressed){
+ miProcedimiento(mouseX*2,mouseY*2,width,height);
+ }
  else
   background(100,200,300);
 
@@ -19,14 +20,19 @@ void draw(){
  }
  
  
- miProcedimiento(float mouseX,float mouseY, float w,float h){
- float sh=w/3;    //tamaño cuadrado
-  square(mouseX-sh/2,mouseY-sh/2,sh); //cuadrado responsive
- 
-  float cw=w/4;                  //tamañno circulo
-circle(mouseX-cw/2,mouseY-cw/2,cw); //circulo responsive
+ void miProcedimiento(float X,float Y, float w,float h){
 
-fill(255,0,0);}
+ background(200,100,700);
+     //tamaño cuadrado
+  circle(X/2,Y/2-w/4,w/4); //cuadrado responsive
+ 
+                 //tamañno circulo
+circle(X/2,Y/2,w/4); //circulo responsive
+
+fill(255,0,0);
+
+
+}
 
 
   
