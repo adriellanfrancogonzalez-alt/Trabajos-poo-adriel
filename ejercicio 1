@@ -1,0 +1,13 @@
+void setup(){
+ size(500,500); 
+  
+}
+
+void draw(){
+  float w=width, h=height;
+  background(200,100,50);
+  
+  square(w/3-w/8,h/2-h/8,w/4);
+  
+  circle(w/1.5-w/10,h/5-h/10,w/5);
+}
