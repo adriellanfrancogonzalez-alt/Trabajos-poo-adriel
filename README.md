@@ -14,3 +14,7 @@ ej 5 (cuadrados) :https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-ad
 
 
 ej 6 (union de puntos)https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%206%20(union%20de%20puntos)
+
+ej 7(circulos que se duplican):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%207(circulos%20que%20se%20duplican)
+
+ej 8(pared de ladrillos):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%208%20(pared%20de%20ladrillos)
