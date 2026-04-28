@@ -1,0 +1,23 @@
+//tablero de cuadrados 
+int cantx = 10;
+void setup() {
+size(500,500);
+}
+
+void draw() {
+
+
+int i=0,j=0;
+
+for(i=0;i<=cantx;i++){
+ 
+  for(j=0;j<=cantx;j++){
+ 
+    line(i*width/cantx,0,j*width/cantx,height);
+  }
+ 
+
+  
+}
+ 
+}
