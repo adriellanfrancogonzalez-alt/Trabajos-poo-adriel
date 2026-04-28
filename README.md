@@ -10,4 +10,7 @@ ejercicio 3: https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/
 ejercicio 4(27/4) ejercicio donde vimos for: https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ejercicio%204%20(Geometr%C3%ADa%20Algor%C3%ADtmica%20y%20Estructuras%20de%20Repetici%C3%B3n)
 
 
+ej 5 (cuadrados) :https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ejercicio%205(tablero%20de%20ajedrez)
 
+
+ej 6 (union de puntos)https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%206%20(union%20de%20puntos)
