@@ -23,4 +23,4 @@ ej 8(pared de ladrillos):https://github.com/adriellanfrancogonzalez-alt/Trabajos
 ej 9 (cuando yo quicleo se pone un circulo, como lo hice a mi manera):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%209(circulos%20en%20arrays%2C%20mi%20manera)
 
 
-ej 9 (cuando yo quicleo se pone un circulo, respetando la consigna)
+ej 9 (cuando yo quicleo se pone un circulo, respetando la consigna):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%209(circulos%20en%20arrays)
