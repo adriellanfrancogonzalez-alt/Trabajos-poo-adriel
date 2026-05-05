@@ -18,3 +18,9 @@ ej 6 (union de puntos)https://github.com/adriellanfrancogonzalez-alt/Trabajos-po
 ej 7(circulos que se duplican):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%207(circulos%20que%20se%20duplican)
 
 ej 8(pared de ladrillos):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%208%20(pared%20de%20ladrillos)
+
+
+ej 9 (cuando yo quicleo se pone un circulo, como lo hice a mi manera):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%209(circulos%20en%20arrays%2C%20mi%20manera)
+
+
+ej 9 (cuando yo quicleo se pone un circulo, respetando la consigna)
