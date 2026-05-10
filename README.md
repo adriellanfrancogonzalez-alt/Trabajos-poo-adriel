@@ -30,4 +30,4 @@ ej 10(barras que se mueven):https://github.com/adriellanfrancogonzalez-alt/Traba
 ej 11(laberinto aleatorio):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2011(laberinto%20aleatorio)
 
 
-
+ej 12(de distancia del mouse a escala de grises):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2012(distancia%20en%20escala%20de%20grises)
