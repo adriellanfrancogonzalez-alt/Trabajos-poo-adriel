@@ -1,0 +1,34 @@
+//varias barras con altura que dependa del mouse
+int[] altura;
+int cant=7;
+void setup(){
+    altura= new int[cant];//ponerle cant de barras
+  size(800,600);
+  for(int i=0;i<cant;i++){//darle valor a la mitad
+altura[i]=height/2;
+
+  }
+  
+}
+
+
+void draw(){
+  background(100);
+  stroke(200);
+  fill(255);
+ for(int i=0;i<cant;i++){//darle valor a la mitad
+    rect(width/cant*i,height,width/cant,-altura[i]);
+  }
+  
+
+  if(mousePressed){
+       for(int i=0;i<cant;i++){//darle valor a la mitad
+         if(mouseX>width/cant*i && mouseX<width/cant*(i+1) && mouseY>1)
+             {
+               altura[i]=height-mouseY;
+             }
+        }
+    
+  }
+  
+}
