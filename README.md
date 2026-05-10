@@ -24,3 +24,10 @@ ej 9 (cuando yo quicleo se pone un circulo, como lo hice a mi manera):https://gi
 
 
 ej 9 (cuando yo quicleo se pone un circulo, respetando la consigna):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%209(circulos%20en%20arrays)
+
+ej 10(barras que se mueven):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2010(barras%20que%20se%20mueven%20con%20arrays%201D)
+
+ej 11(laberinto aleatorio):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2011(laberinto%20aleatorio)
+
+
+
