@@ -1,0 +1,24 @@
+PVector pos,vel;
+
+void setup(){
+ size(700,700); 
+ pos= new PVector(width/2,height/2);
+ vel = new PVector(10,13);
+}
+
+
+void draw(){
+  
+background(100);
+int tam=width/10;
+pos.add(vel);
+circle(pos.x,pos.y,tam);
+ 
+  if(pos.x > width )pos.x=0;
+  if(pos.y > height) pos.y=0;
+    if(pos.x < 0 )pos.x=0;
+  if(pos.y < 0) pos.y=0;
+  
+  
+  
+}
