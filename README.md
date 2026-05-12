@@ -39,8 +39,10 @@ APRENDIENDO CLASES:
 
 
 ej 13(circulo que rebota):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2013%20(DVD%20que%20rebota)
-
+ej 13 (pero con clase creada Movil, es mas corto el codigo pero hay que crear una nueva pestaña):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2013(pelotas%20rebotan%20pero%20con%20clase%20creada%20nueva)
 
 ej 14(circulo que sigue de largo en el otro lado):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2014(circulo%20que%20se%20teletransporta%20al%20otro%20lado
+
+
 
 
