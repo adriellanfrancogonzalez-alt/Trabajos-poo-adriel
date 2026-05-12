@@ -31,3 +31,16 @@ ej 11(laberinto aleatorio):https://github.com/adriellanfrancogonzalez-alt/Trabaj
 
 
 ej 12(de distancia del mouse a escala de grises):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2012(distancia%20en%20escala%20de%20grises)
+
+
+
+
+APRENDIENDO CLASES:
+
+
+ej 13(circulo que rebota):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2013%20(DVD%20que%20rebota)
+
+
+ej 14(circulo que sigue de largo en el otro lado):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2014(circulo%20que%20se%20teletransporta%20al%20otro%20lado
+
+
