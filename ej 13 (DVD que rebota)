@@ -1,0 +1,32 @@
+PVector pos,vel;
+
+void setup(){
+ size(800,600);
+ 
+ pos=new PVector(width/2,height/2);
+ vel=new PVector(5,5);
+  
+}
+
+
+void draw(){
+  background(100);
+ println(pos.x,pos.y);
+ 
+int tam=width/20;
+
+  if(pos.x >= width-tam/2 || pos.x <=0+tam/2 ){
+   vel.x= vel.x*-1;
+    fill(random(255),random(255),random(255));
+
+  }
+    if( pos.y >= height-tam/2 || pos.y <=0+tam/2){
+  fill(random(255),random(255),random(255));
+   vel.y= vel.y*-1; 
+  }
+  pos.add(vel);
+  
+   ellipse(pos.x,pos.y,tam,tam);
+}
+
+//vel.x=velx x -1
