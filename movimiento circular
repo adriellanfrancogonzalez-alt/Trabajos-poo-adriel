@@ -1,0 +1,27 @@
+
+
+
+
+float x,y;
+float angulo,distancia;
+void setup(){
+  
+ size(800,800); 
+  angulo=0;
+  distancia=0;
+   background(0);
+   colorMode(HSB);
+}
+
+
+void draw(){
+  distancia= distancia + 0.1;
+ 
+  translate(width/2,height/2);
+  angulo =angulo + TWO_PI/30;
+ fill(frameCount%255,255,255);
+  x= cos(angulo) * distancia;
+  y= sin(angulo) * distancia;
+  ellipse(x,y,100,100);
+  
+}
