@@ -43,6 +43,8 @@ ej 13 (pero con clase creada Movil, es mas corto el codigo pero hay que crear un
 
 ej 14(circulo que sigue de largo en el otro lado):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2014(circulo%20que%20se%20teletransporta%20al%20otro%20lado
 
-
+**fecha 18/5:**
 ej 15(mov circular):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2015%20movimiento%20circular
+
+ej 16(elipse que sigue al mouse):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2016%20(elipse%20que%20sigue%20al%20mouse)
 
