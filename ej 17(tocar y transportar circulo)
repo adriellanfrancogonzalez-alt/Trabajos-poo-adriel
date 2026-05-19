@@ -1,0 +1,29 @@
+float x,y,velx,vely;
+float angulo,distancia;
+void setup(){
+  
+ size(800,800); 
+background(0);
+
+
+
+
+}
+
+
+void draw(){
+  int tam=50;
+background(0);
+int dx=0;
+int dy=0;
+if(mousePressed && dist(pmouseX,pmouseY,x,y)<=tam){
+ dx = mouseX- pmouseX;
+ dy=mouseY -pmouseY;
+}
+
+
+ x += dx;
+y +=dy;
+ ellipse(x,y,tam,tam);
+ square(0,0,30);
+}
