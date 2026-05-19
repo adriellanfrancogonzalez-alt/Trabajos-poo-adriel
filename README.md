@@ -48,3 +48,5 @@ ej 15(mov circular):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-
 
 ej 16(elipse que sigue al mouse):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2016%20(elipse%20que%20sigue%20al%20mouse)
 
+ej 17(tocar y transportar circulo):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2017(tocar%20y%20transportar%20circulo)
+
