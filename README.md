@@ -50,3 +50,6 @@ ej 16(elipse que sigue al mouse):https://github.com/adriellanfrancogonzalez-alt/
 
 ej 17(tocar y transportar circulo):https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2017(tocar%20y%20transportar%20circulo)
 
+
+ ej 20( circulos que tienen lineas si se acercan al centro)
+ https://github.com/adriellanfrancogonzalez-alt/Trabajos-poo-adriel/blob/main/ej%2020(circulos%20con%20lineas)
