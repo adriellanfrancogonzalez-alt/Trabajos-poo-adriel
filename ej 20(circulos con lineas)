@@ -1,0 +1,56 @@
+class Movil {
+  PVector pos;
+  PVector vel;
+  int tam=6;
+
+  Movil(float posX, float posY, float velX, float velY) {
+    pos= new PVector(posX, posY);
+    vel= new PVector(velX, velY);
+  }
+  void mover() {
+    pos.add(vel);
+  }
+
+  void mostrar() {
+    ellipse(pos.x, pos.y, tam, tam);
+  }
+  void rebotar() {
+    if ( pos.x >= width - tam/2 || pos.x <= 0 +tam/2)
+      vel.x=vel.x * -1;
+
+    if (pos.y >= height - tam/2 || pos.y <= 0 +tam/2)
+      vel.y = vel.y * -1;
+  }
+
+  void linea() {
+  
+
+      if (dist(width/2, height/2, pos.x, pos.y) < width/3) {
+        line(width/2, height/2, pos.x, pos.y);
+        
+      }
+ 
+  }
+  
+}
+
+
+Movil[] objeto;
+int i, cant=50;
+void setup() {
+  size(800, 600);
+
+  objeto = new Movil[cant];
+  for (i=0; i<cant; i++)
+    objeto[i]=new Movil(random(0, width), random(0, height), random(-15, 15), random(-15, 15));
+}
+
+void draw() {
+  background(100);
+  //  ellipse(cX,cY,10,10);
+  for (i=0; i<cant; i++) {
+    objeto[i].linea();
+    objeto[i].mover();
+    objeto[i].rebotar();
+  }
+}
